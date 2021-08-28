@@ -5,9 +5,5 @@
 - 📫 How to reach me: [Mail](mailto:ylfeng@ir.hit.edu.cn) [Gmail](mailto:alongwyforever@gmail.com) [Outlook](mailto:alongwyforever@outlook.com)
 - 🐯 My personal website: [Homepage](https://alongwy.top) and side project [NotCraft](https://notcraft.alongwy.top)
 
-<a href="https://alongwy.top">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=alongwy&count_private=true" />
-</a>
-<a href="https://alongwy.top">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alongwy&hide=HTML,PostScript" />
-</a>
+[![Stat](https://github-readme-stats.vercel.app/api?username=alongwy&count_private=true&show_icons=true&line_height=20&theme=default)](https://alongwy.top)
+[![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alongwy&layout=compact&hide=HTML,PostScript&theme=default_repocard)](https://alongwy.top)
